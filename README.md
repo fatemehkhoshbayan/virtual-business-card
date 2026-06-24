@@ -36,16 +36,6 @@ npm run build
 npm start
 ```
 
-## CLI script
-
-The repo includes a standalone Node.js script for generating a card from the command line:
-
-```bash
-npm run generate
-```
-
-Edit the contact details in `generate-card.js`, then run the command to output a PNG (e.g. `loloa-card.png`).
-
 ## Tech stack
 
 - [Next.js](https://nextjs.org/) (App Router)
